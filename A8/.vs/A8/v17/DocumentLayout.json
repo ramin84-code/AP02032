@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\git\\AP02032\\A8\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A765E25A-95A2-43B4-AAE3-552B16D9D360}|A8.Tests\\A8.Tests.csproj|c:\\git\\ap02032\\a8\\a8.tests\\testdata\\negatetest.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A765E25A-95A2-43B4-AAE3-552B16D9D360}|A8.Tests\\A8.Tests.csproj|solutionrelative:a8.tests\\testdata\\negatetest.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A765E25A-95A2-43B4-AAE3-552B16D9D360}|A8.Tests\\A8.Tests.csproj|c:\\git\\ap02032\\a8\\a8.tests\\testdata\\expressiontest3.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A765E25A-95A2-43B4-AAE3-552B16D9D360}|A8.Tests\\A8.Tests.csproj|solutionrelative:a8.tests\\testdata\\expressiontest3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A765E25A-95A2-43B4-AAE3-552B16D9D360}|A8.Tests\\A8.Tests.csproj|c:\\git\\ap02032\\a8\\a8.tests\\testdata\\expressiontest2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A765E25A-95A2-43B4-AAE3-552B16D9D360}|A8.Tests\\A8.Tests.csproj|solutionrelative:a8.tests\\testdata\\expressiontest2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A765E25A-95A2-43B4-AAE3-552B16D9D360}|A8.Tests\\A8.Tests.csproj|c:\\git\\ap02032\\a8\\a8.tests\\testdata\\expressiontest1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A765E25A-95A2-43B4-AAE3-552B16D9D360}|A8.Tests\\A8.Tests.csproj|solutionrelative:a8.tests\\testdata\\expressiontest1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A765E25A-95A2-43B4-AAE3-552B16D9D360}|A8.Tests\\A8.Tests.csproj|c:\\git\\ap02032\\a8\\a8.tests\\testdata\\dividetest.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A765E25A-95A2-43B4-AAE3-552B16D9D360}|A8.Tests\\A8.Tests.csproj|solutionrelative:a8.tests\\testdata\\dividetest.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A765E25A-95A2-43B4-AAE3-552B16D9D360}|A8.Tests\\A8.Tests.csproj|c:\\git\\ap02032\\a8\\a8.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A765E25A-95A2-43B4-AAE3-552B16D9D360}|A8.Tests\\A8.Tests.csproj|solutionrelative:a8.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A765E25A-95A2-43B4-AAE3-552B16D9D360}|A8.Tests\\A8.Tests.csproj|c:\\git\\ap02032\\a8\\a8.tests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A765E25A-95A2-43B4-AAE3-552B16D9D360}|A8.Tests\\A8.Tests.csproj|solutionrelative:a8.tests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A765E25A-95A2-43B4-AAE3-552B16D9D360}|A8.Tests\\A8.Tests.csproj|c:\\git\\ap02032\\a8\\a8.tests\\expressiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A765E25A-95A2-43B4-AAE3-552B16D9D360}|A8.Tests\\A8.Tests.csproj|solutionrelative:a8.tests\\expressiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A765E25A-95A2-43B4-AAE3-552B16D9D360}|A8.Tests\\A8.Tests.csproj|c:\\git\\ap02032\\a8\\a8.tests\\operatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A765E25A-95A2-43B4-AAE3-552B16D9D360}|A8.Tests\\A8.Tests.csproj|solutionrelative:a8.tests\\operatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{53F1EBEE-031C-447F-983E-2F3101522CF8}|A8\\A8.csproj|c:\\git\\ap02032\\a8\\a8\\expression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53F1EBEE-031C-447F-983E-2F3101522CF8}|A8\\A8.csproj|solutionrelative:a8\\expression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,32 +47,12 @@
       "RelativeMoniker": "D:0:0:{53F1EBEE-031C-447F-983E-2F3101522CF8}|A8\\A8.csproj|solutionrelative:a8\\binaryoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A765E25A-95A2-43B4-AAE3-552B16D9D360}|A8.Tests\\A8.Tests.csproj|c:\\git\\ap02032\\a8\\a8.tests\\expressiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A765E25A-95A2-43B4-AAE3-552B16D9D360}|A8.Tests\\A8.Tests.csproj|solutionrelative:a8.tests\\expressiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A765E25A-95A2-43B4-AAE3-552B16D9D360}|A8.Tests\\A8.Tests.csproj|c:\\git\\ap02032\\a8\\a8.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A765E25A-95A2-43B4-AAE3-552B16D9D360}|A8.Tests\\A8.Tests.csproj|solutionrelative:a8.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A765E25A-95A2-43B4-AAE3-552B16D9D360}|A8.Tests\\A8.Tests.csproj|c:\\git\\ap02032\\a8\\a8.tests\\operatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A765E25A-95A2-43B4-AAE3-552B16D9D360}|A8.Tests\\A8.Tests.csproj|solutionrelative:a8.tests\\operatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{53F1EBEE-031C-447F-983E-2F3101522CF8}|A8\\A8.csproj|c:\\git\\ap02032\\a8\\a8\\multiplyoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53F1EBEE-031C-447F-983E-2F3101522CF8}|A8\\A8.csproj|solutionrelative:a8\\multiplyoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A765E25A-95A2-43B4-AAE3-552B16D9D360}|A8.Tests\\A8.Tests.csproj|c:\\git\\ap02032\\a8\\a8.tests\\testdata\\expressiontest1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A765E25A-95A2-43B4-AAE3-552B16D9D360}|A8.Tests\\A8.Tests.csproj|solutionrelative:a8.tests\\testdata\\expressiontest1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A765E25A-95A2-43B4-AAE3-552B16D9D360}|A8.Tests\\A8.Tests.csproj|c:\\git\\ap02032\\a8\\a8.tests\\testdata\\addtest.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A765E25A-95A2-43B4-AAE3-552B16D9D360}|A8.Tests\\A8.Tests.csproj|solutionrelative:a8.tests\\testdata\\addtest.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A765E25A-95A2-43B4-AAE3-552B16D9D360}|A8.Tests\\A8.Tests.csproj|c:\\git\\ap02032\\a8\\a8.tests\\testdata\\dividetest.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A765E25A-95A2-43B4-AAE3-552B16D9D360}|A8.Tests\\A8.Tests.csproj|solutionrelative:a8.tests\\testdata\\dividetest.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53F1EBEE-031C-447F-983E-2F3101522CF8}|A8\\A8.csproj|c:\\git\\ap02032\\a8\\a8\\addoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,11 +82,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "NegateTest.txt",
+              "DocumentMoniker": "C:\\git\\AP02032\\A8\\A8.Tests\\TestData\\NegateTest.txt",
+              "RelativeDocumentMoniker": "A8.Tests\\TestData\\NegateTest.txt",
+              "ToolTip": "C:\\git\\AP02032\\A8\\A8.Tests\\TestData\\NegateTest.txt",
+              "RelativeToolTip": "A8.Tests\\TestData\\NegateTest.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-29T13:40:54.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExpressionTest3.txt",
+              "DocumentMoniker": "C:\\git\\AP02032\\A8\\A8.Tests\\TestData\\ExpressionTest3.txt",
+              "RelativeDocumentMoniker": "A8.Tests\\TestData\\ExpressionTest3.txt",
+              "ToolTip": "C:\\git\\AP02032\\A8\\A8.Tests\\TestData\\ExpressionTest3.txt",
+              "RelativeToolTip": "A8.Tests\\TestData\\ExpressionTest3.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-29T13:40:53.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExpressionTest2.txt",
+              "DocumentMoniker": "C:\\git\\AP02032\\A8\\A8.Tests\\TestData\\ExpressionTest2.txt",
+              "RelativeDocumentMoniker": "A8.Tests\\TestData\\ExpressionTest2.txt",
+              "ToolTip": "C:\\git\\AP02032\\A8\\A8.Tests\\TestData\\ExpressionTest2.txt",
+              "RelativeToolTip": "A8.Tests\\TestData\\ExpressionTest2.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-29T13:40:51.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\git\\AP02032\\A8\\A8.Tests\\Usings.cs",
+              "RelativeDocumentMoniker": "A8.Tests\\Usings.cs",
+              "ToolTip": "C:\\git\\AP02032\\A8\\A8.Tests\\Usings.cs",
+              "RelativeToolTip": "A8.Tests\\Usings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:40:27.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\git\\AP02032\\A8\\A8.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "A8.Tests\\UnitTest1.cs",
@@ -83,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "ExpressionTest1.txt",
               "DocumentMoniker": "C:\\git\\AP02032\\A8\\A8.Tests\\TestData\\ExpressionTest1.txt",
               "RelativeDocumentMoniker": "A8.Tests\\TestData\\ExpressionTest1.txt",
@@ -96,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "DivideTest.txt",
               "DocumentMoniker": "C:\\git\\AP02032\\A8\\A8.Tests\\TestData\\DivideTest.txt",
               "RelativeDocumentMoniker": "A8.Tests\\TestData\\DivideTest.txt",
@@ -109,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "AddTest.txt",
               "DocumentMoniker": "C:\\git\\AP02032\\A8\\A8.Tests\\TestData\\AddTest.txt",
               "RelativeDocumentMoniker": "A8.Tests\\TestData\\AddTest.txt",
@@ -117,12 +185,11 @@
               "RelativeToolTip": "A8.Tests\\TestData\\AddTest.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-05-02T09:37:29.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T09:37:29.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "OperatorTests.cs",
               "DocumentMoniker": "C:\\git\\AP02032\\A8\\A8.Tests\\OperatorTests.cs",
               "RelativeDocumentMoniker": "A8.Tests\\OperatorTests.cs",
@@ -135,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "MultiplyOperator.cs",
               "DocumentMoniker": "C:\\git\\AP02032\\A8\\A8\\MultiplyOperator.cs",
               "RelativeDocumentMoniker": "A8\\MultiplyOperator.cs",
@@ -143,12 +210,11 @@
               "RelativeToolTip": "A8\\MultiplyOperator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T09:36:59.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T09:36:59.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "ExpressionTests.cs",
               "DocumentMoniker": "C:\\git\\AP02032\\A8\\A8.Tests\\ExpressionTests.cs",
               "RelativeDocumentMoniker": "A8.Tests\\ExpressionTests.cs",
@@ -161,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "IOperator.cs",
               "DocumentMoniker": "C:\\git\\AP02032\\A8\\A8\\IOperator.cs",
               "RelativeDocumentMoniker": "A8\\IOperator.cs",
@@ -169,12 +235,11 @@
               "RelativeToolTip": "A8\\IOperator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T09:34:03.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T09:34:03.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "UnaryOperator.cs",
               "DocumentMoniker": "C:\\git\\AP02032\\A8\\A8\\UnaryOperator.cs",
               "RelativeDocumentMoniker": "A8\\UnaryOperator.cs",
@@ -182,12 +247,11 @@
               "RelativeToolTip": "A8\\UnaryOperator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T09:32:27.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T09:32:27.948Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "NegateOperator.cs",
               "DocumentMoniker": "C:\\git\\AP02032\\A8\\A8\\NegateOperator.cs",
               "RelativeDocumentMoniker": "A8\\NegateOperator.cs",
@@ -195,12 +259,11 @@
               "RelativeToolTip": "A8\\NegateOperator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T09:32:16.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T09:32:16.983Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Expression.cs",
               "DocumentMoniker": "C:\\git\\AP02032\\A8\\A8\\Expression.cs",
               "RelativeDocumentMoniker": "A8\\Expression.cs",
@@ -213,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "AddOperator.cs",
               "DocumentMoniker": "C:\\git\\AP02032\\A8\\A8\\AddOperator.cs",
               "RelativeDocumentMoniker": "A8\\AddOperator.cs",
@@ -221,12 +284,11 @@
               "RelativeToolTip": "A8\\AddOperator.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAzwAcAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T09:29:04.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T09:29:04.323Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "DivideOperator.cs",
               "DocumentMoniker": "C:\\git\\AP02032\\A8\\A8\\DivideOperator.cs",
               "RelativeDocumentMoniker": "A8\\DivideOperator.cs",
@@ -234,12 +296,11 @@
               "RelativeToolTip": "A8\\DivideOperator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T09:28:54.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T09:28:54.659Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "BinaryOperator.cs",
               "DocumentMoniker": "C:\\git\\AP02032\\A8\\A8\\BinaryOperator.cs",
               "RelativeDocumentMoniker": "A8\\BinaryOperator.cs",
@@ -247,8 +308,7 @@
               "RelativeToolTip": "A8\\BinaryOperator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T09:28:23.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T09:28:23.182Z"
             }
           ]
         }

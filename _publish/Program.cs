@@ -1,4 +1,4 @@
-﻿namespace AP02032;
+﻿namespace _publish;
 
 class Program
 {

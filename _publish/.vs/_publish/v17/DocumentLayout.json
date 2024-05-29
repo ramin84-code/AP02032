@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\git\\AP02032\\_publish\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80741D63-1D44-4528-AAE1-F85F2317A27F}|_publish.csproj|c:\\git\\ap02032\\_publish\\a8\\addoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80741D63-1D44-4528-AAE1-F85F2317A27F}|_publish.csproj|solutionrelative:a8\\addoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80741D63-1D44-4528-AAE1-F85F2317A27F}|_publish.csproj|c:\\git\\ap02032\\_publish\\a8\\unaryoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80741D63-1D44-4528-AAE1-F85F2317A27F}|_publish.csproj|solutionrelative:a8\\unaryoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80741D63-1D44-4528-AAE1-F85F2317A27F}|_publish.csproj|c:\\git\\ap02032\\_publish\\a8\\subtractoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80741D63-1D44-4528-AAE1-F85F2317A27F}|_publish.csproj|solutionrelative:a8\\subtractoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80741D63-1D44-4528-AAE1-F85F2317A27F}|_publish.csproj|c:\\git\\ap02032\\_publish\\a8\\sqrtoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80741D63-1D44-4528-AAE1-F85F2317A27F}|_publish.csproj|solutionrelative:a8\\sqrtoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80741D63-1D44-4528-AAE1-F85F2317A27F}|_publish.csproj|c:\\git\\ap02032\\_publish\\a8\\numberexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80741D63-1D44-4528-AAE1-F85F2317A27F}|_publish.csproj|solutionrelative:a8\\numberexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80741D63-1D44-4528-AAE1-F85F2317A27F}|_publish.csproj|c:\\git\\ap02032\\_publish\\a8\\multiplyoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80741D63-1D44-4528-AAE1-F85F2317A27F}|_publish.csproj|solutionrelative:a8\\multiplyoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80741D63-1D44-4528-AAE1-F85F2317A27F}|_publish.csproj|c:\\git\\ap02032\\_publish\\a8\\divideoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80741D63-1D44-4528-AAE1-F85F2317A27F}|_publish.csproj|solutionrelative:a8\\divideoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80741D63-1D44-4528-AAE1-F85F2317A27F}|_publish.csproj|c:\\git\\ap02032\\_publish\\a8\\binaryoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80741D63-1D44-4528-AAE1-F85F2317A27F}|_publish.csproj|solutionrelative:a8\\binaryoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80741D63-1D44-4528-AAE1-F85F2317A27F}|_publish.csproj|c:\\git\\ap02032\\_publish\\a8\\expression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80741D63-1D44-4528-AAE1-F85F2317A27F}|_publish.csproj|solutionrelative:a8\\expression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80741D63-1D44-4528-AAE1-F85F2317A27F}|_publish.csproj|c:\\git\\ap02032\\_publish\\a8\\ioperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80741D63-1D44-4528-AAE1-F85F2317A27F}|_publish.csproj|solutionrelative:a8\\ioperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80741D63-1D44-4528-AAE1-F85F2317A27F}|_publish.csproj|c:\\git\\ap02032\\_publish\\a8.tests\\expressiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80741D63-1D44-4528-AAE1-F85F2317A27F}|_publish.csproj|solutionrelative:a8.tests\\expressiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnaryOperator.cs",
+              "DocumentMoniker": "C:\\git\\AP02032\\_publish\\A8\\UnaryOperator.cs",
+              "RelativeDocumentMoniker": "A8\\UnaryOperator.cs",
+              "ToolTip": "C:\\git\\AP02032\\_publish\\A8\\UnaryOperator.cs",
+              "RelativeToolTip": "A8\\UnaryOperator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:12:31.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SqrtOperator.cs",
+              "DocumentMoniker": "C:\\git\\AP02032\\_publish\\A8\\SqrtOperator.cs",
+              "RelativeDocumentMoniker": "A8\\SqrtOperator.cs",
+              "ToolTip": "C:\\git\\AP02032\\_publish\\A8\\SqrtOperator.cs",
+              "RelativeToolTip": "A8\\SqrtOperator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:11:45.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NumberExpression.cs",
+              "DocumentMoniker": "C:\\git\\AP02032\\_publish\\A8\\NumberExpression.cs",
+              "RelativeDocumentMoniker": "A8\\NumberExpression.cs",
+              "ToolTip": "C:\\git\\AP02032\\_publish\\A8\\NumberExpression.cs",
+              "RelativeToolTip": "A8\\NumberExpression.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:11:35.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DivideOperator.cs",
+              "DocumentMoniker": "C:\\git\\AP02032\\_publish\\A8\\DivideOperator.cs",
+              "RelativeDocumentMoniker": "A8\\DivideOperator.cs",
+              "ToolTip": "C:\\git\\AP02032\\_publish\\A8\\DivideOperator.cs",
+              "RelativeToolTip": "A8\\DivideOperator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:10:33.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubtractOperator.cs",
+              "DocumentMoniker": "C:\\git\\AP02032\\_publish\\A8\\SubtractOperator.cs",
+              "RelativeDocumentMoniker": "A8\\SubtractOperator.cs",
+              "ToolTip": "C:\\git\\AP02032\\_publish\\A8\\SubtractOperator.cs",
+              "RelativeToolTip": "A8\\SubtractOperator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:09:54.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Expression.cs",
+              "DocumentMoniker": "C:\\git\\AP02032\\_publish\\A8\\Expression.cs",
+              "RelativeDocumentMoniker": "A8\\Expression.cs",
+              "ToolTip": "C:\\git\\AP02032\\_publish\\A8\\Expression.cs",
+              "RelativeToolTip": "A8\\Expression.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:04:44.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BinaryOperator.cs",
+              "DocumentMoniker": "C:\\git\\AP02032\\_publish\\A8\\BinaryOperator.cs",
+              "RelativeDocumentMoniker": "A8\\BinaryOperator.cs",
+              "ToolTip": "C:\\git\\AP02032\\_publish\\A8\\BinaryOperator.cs",
+              "RelativeToolTip": "A8\\BinaryOperator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:00:54.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOperator.cs",
+              "DocumentMoniker": "C:\\git\\AP02032\\_publish\\A8\\IOperator.cs",
+              "RelativeDocumentMoniker": "A8\\IOperator.cs",
+              "ToolTip": "C:\\git\\AP02032\\_publish\\A8\\IOperator.cs",
+              "RelativeToolTip": "A8\\IOperator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:02:55.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddOperator.cs",
+              "DocumentMoniker": "C:\\git\\AP02032\\_publish\\A8\\AddOperator.cs",
+              "RelativeDocumentMoniker": "A8\\AddOperator.cs",
+              "ToolTip": "C:\\git\\AP02032\\_publish\\A8\\AddOperator.cs",
+              "RelativeToolTip": "A8\\AddOperator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T21:00:23.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MultiplyOperator.cs",
+              "DocumentMoniker": "C:\\git\\AP02032\\_publish\\A8\\MultiplyOperator.cs",
+              "RelativeDocumentMoniker": "A8\\MultiplyOperator.cs",
+              "ToolTip": "C:\\git\\AP02032\\_publish\\A8\\MultiplyOperator.cs",
+              "RelativeToolTip": "A8\\MultiplyOperator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:54:58.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExpressionTests.cs",
+              "DocumentMoniker": "C:\\git\\AP02032\\_publish\\A8.Tests\\ExpressionTests.cs",
+              "RelativeDocumentMoniker": "A8.Tests\\ExpressionTests.cs",
+              "ToolTip": "C:\\git\\AP02032\\_publish\\A8.Tests\\ExpressionTests.cs",
+              "RelativeToolTip": "A8.Tests\\ExpressionTests.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA0wC4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T20:54:01.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
